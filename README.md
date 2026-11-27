@@ -10,11 +10,7 @@ Raise your hand to the webcam and thousands of glowing particles transform into 
 crackling plasma sphere, a butterfly, a blooming lotus, Saturn, a galaxy or a beating heart.
 No installs, no accounts, no servers: everything runs on your device.
 
-![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-r187-000000?logo=three.js&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Landmarker-0097a7)
-![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-85%20passing-2ea44f)
+<sub>Built with React · Three.js · MediaPipe · Vite</sub>
 
 </div>
 
